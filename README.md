@@ -24,4 +24,4 @@ Meu nome e Pietro Fernandes tenho 15 anos de idade e estou em busca de uma carre
 - [pedra papel e tesoura](https://github.com/PietroNF/joguinho)<br/>
 - [botao fujao](https://github.com/PietroNF/namora-comigo-)<br/>
 
-
+...
