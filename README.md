@@ -17,6 +17,8 @@
 </div><br/>
 Meu nome e Pietro Fernandes tenho 15 anos de idade e estou em busca de uma carreira como desenvolvedor front-end. Iniciei no mundo da programaçao em 2021 fazendo alguns bots do discord com pyton mas no ano seguinte, em maio de 2022 meu foco nos estudos possou a mudar e des de entao uma busca de estudos mais intensiva aconteceu, aprendendo html css e js em cursos gratuitos por 15 meses 
 
+...
+
 
 ### melhores projetos:
   - [meu portifolio](https://github.com/PietroNF/meu-portifolio)<br/>
