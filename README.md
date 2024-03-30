@@ -7,7 +7,7 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=pietroNF&show_icons=true&theme=dracula&count_private=true)
 
-## linguagens
+ Linguagens,
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,11 +15,14 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  
 </div><br/>
-meu nome é Pietro Nuernberg Fernandes tenho 15 anos e desde 2022 estudo programação na área front-end, tenho cerca de 12 cursos ja concluidos na carreira,
-nos anos anteriores tenho focado quase 100% em  html css e javascript 
-Atualmento estou me aprimorando em outras tecnologias como typescript e reactjs e ux desing em cursos da origamid e onebitcode 
- --------------------------------------------------------------------------------------------------------------------------------------------------------
- 📚 presencialmente estou cursando o ensino médio técnico em analise de desenvolvimento de sistemas no sesi-senai Florianópolis
+📚Meu nome é Pietro Nuernberg Fernandes tenho 15 anos e desde 2022 estudo programação na área front-end, tenho cerca de 12 cursos ja
+concluidos na carreira.
+
+
+📚Nos anos anteriores tenho focado quase 100% em  html css e javascript,
+Atualmento estou me aprimorando em outras tecnologias como typescript, reactjs e ux desing em cursos da origamid e onebitcode 
+
+ 📚Presencialmente estou cursando o ensino médio técnico em analise de desenvolvimento de sistemas no sesi-senai Florianópolis
 
 
                    
