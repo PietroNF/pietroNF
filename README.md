@@ -15,7 +15,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  
 </div><br/>
-Meu nome e Pietro Fernandes tenho 15 anos de idade e estou em busca de uma carreira como desenvolvedor front-end. Iniciei no mundo da programaçao em 2021 fazendo alguns bots do discord com pyton mas no ano seguinte, em maio de 2022 meu foco nos estudos possou a mudar e des de entao uma busca de estudos mais intensiva aconteceu, aprendendo html css e js em cursos gratuitos por 15 meses 
+Meu nome e Pietro Fernandes tenho 15 anos de idade e estou em busca de uma carreira como desenvolvedor front-end. Iniciei no mundo da programaçao em 2021 fazendo alguns bots do discord com pyton mas no ano seguinte, em maio de 2022 meu foco nos estudos possou a mudar e des de entao uma busca de estudos mais intensiva aconteceu, aprendendo html css e js em cursos gratuitos por 23 meses 
 
 ...
 
