@@ -15,8 +15,15 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  
 </div><br/>
-Meu nome e Pietro Fernandes tenho 15 anos de idade e estou em busca de uma carreira como desenvolvedor front-end. Iniciei no mundo da programaçao em 2021 fazendo alguns bots do discord com pyton mas no ano seguinte, em maio de 2022 meu foco nos estudos possou a mudar e des de entao uma busca de estudos mais intensiva aconteceu, aprendendo html css e js em cursos gratuitos por 23 meses 
+meu nome é Pietro Nuernberg Fernandes tenho 15 anos e desde 2022 estudo programação na área front-end, tenho cerca de 12 cursos ja concluidos na carreira,
+nos anos anteriores tenho focado quase 100% em  html css e javascript 
+Atualmento estou me aprimorando em outras tecnologias como typescript e reactjs e ux desing em cursos da origamid e onebitcode 
+ --------------------------------------------------------------------------------------------------------------------------------------------------------
+ 📚 presencialmente estou cursando o ensino médio técnico em analise de desenvolvimento de sistemas no sesi-senai Florianópolis
 
+
+                   
+                                                                                             
 ...
 
 
