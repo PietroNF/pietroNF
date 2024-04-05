@@ -22,7 +22,7 @@ concluidos na carreira.
 📚Nos anos anteriores tenho focado quase 100% em  html css e javascript,
 Atualmento estou me aprimorando em outras tecnologias como typescript, reactjs e ux desing em cursos da origamid e onebitcode 
 
- 📚Presencialmente estou cursando o ensino médio técnico em analise de desenvolvimento de sistemas no sesi-senai Florianópolis
+ 
 
 
                    
