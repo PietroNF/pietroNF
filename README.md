@@ -15,11 +15,9 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  
 </div><br/>
-📚Meu nome é Pietro Nuernberg Fernandes tenho 15 anos e desde 2022 estudo programação na área front-end, tenho cerca de 12 cursos ja
-concluidos na carreira.
+📚Meu nome é Pietro Nuernberg Fernandes, tenho 15 anos e desde 2022 estudo programação na área front-end. Já concluí cerca de 12 cursos na carreira.
 
-📚Nos anos anteriores tenho focado quase 100% em  html css e javascript,
-Atualmento estou me aprimorando em outras tecnologias como typescript, reactjs e ux desing em cursos da origamid e onebitcode 
+📚Nos anos anteriores, tenho focado quase 100% em HTML, CSS e JavaScript. Atualmente, estou me aprimorando em outras tecnologias como TypeScript, ReactJS e UX Design, por meio de cursos da Origamid e OneBitCode.
 
  
 
