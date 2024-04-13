@@ -31,8 +31,4 @@
 
 
 ...
-![snake gif](https://github.com/pietroNF/pietroNF/blob/output/github-contribution-grid-snake.svg)
 
-                   
-                                                                                             
-...
