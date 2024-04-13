@@ -20,7 +20,7 @@
 📚Nos anos anteriores, tenho focado quase 100% em HTML, CSS e JavaScript. Atualmente, estou me aprimorando em outras tecnologias como TypeScript, ReactJS e UX Design, por meio de cursos da Origamid e OneBitCode.
 
  
-
+![snake gif](https://github.com/pietroNF/pietroNF/blob/output/github-contribution-grid-snake.svg)
 
                    
                                                                                              
